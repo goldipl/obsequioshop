@@ -1,0 +1,118 @@
+.row__container {
+    display: flex;
+    flex-direction: row;
+    aside {
+        display: flex;
+        flex-direction: column;
+        width: 232px;
+        margin-right: 35px;
+    }
+    .col_10__container {
+        display: flex;
+        flex-direction: column;
+        width: 1240px;
+        .products_blocks_wrapper {
+            &__slot {
+                width: 24%;
+                margin-right: 1%;
+                margin-bottom: 1%;
+            }
+        }
+    }
+}
+
+@media (max-width: 1600px) {
+    .row__container {
+        .col_10__container {
+            .products_blocks_wrapper {
+                &__slot {
+                    min-width: unset;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 1500px) {
+    .row__container {
+        aside {
+            width: 200px;
+            margin-right: 24px;
+        }
+        .col_10__container {
+            .products_blocks_wrapper {
+                &__slot {
+                    min-width: unset;
+                    width: 24%;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 1260px) {
+    .row__container {
+        .col_10__container {
+            .products_blocks_wrapper {
+                &__slot {
+                    > a {
+                        width: 96%;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 1140px) {
+    .row__container {
+        &.products-page-row {
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        .col_10__container {
+            .products_blocks_wrapper {
+                &__slot {
+                    width: 45%;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 760px) {
+    .row__container {
+        .col_10__container {
+            .products_blocks_wrapper {
+                &__slot {
+                    width: 100%;
+                    margin-bottom: 16px;
+                    &:nth-child(4n) {
+                        margin-right: 0;
+                    }
+                    &:nth-child(3n) {
+                        margin-right: 0;
+                    }
+                    &:nth-child(2n) {
+                        margin-right: 0;
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+@media (max-width: 760px) {
+    .row__container {
+        flex-direction: column;
+        aside {
+            width: 100%;
+            margin-right: 0;
+        }
+        .col_10__container {
+            width: 100%;
+        }
+    }
+}

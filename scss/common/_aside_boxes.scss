@@ -1,0 +1,19 @@
+.aside_boxes {
+    margin-top: 0;
+    margin-bottom: 16px;
+    &_slot {
+        margin-bottom: -8px;
+        img {
+            object-fit: contain;
+            width: 100%;
+            height: auto;
+            margin: 16px 0 0 0;
+        }
+    }
+}
+
+@media (max-width: 760px) {
+    .aside_boxes {
+        margin: 16px 0 0 0;
+    }
+}
