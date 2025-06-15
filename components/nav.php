@@ -7,7 +7,7 @@
         </div>
         <div class="logo">
             <a href="./index.php">
-                <img src="./assets/icons/Obsequio-logo.svg" alt="SPARK PROMOTIONS logo" width="181" height="94">
+                <img src="./assets/icons/Obsequio-logo.svg" alt="Obsequio logo" width="181" height="94">
             </a>
         </div>
         <form class="search-bar-wrapper">

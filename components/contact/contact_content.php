@@ -72,7 +72,7 @@
             </div>
             <div class="contact_box__slot_bottom">
                 <div class="contact_box__slot_bottom--text">
-                    <p class="desc">Spark Promotions Sp. z o.o. Sp. k.</p>
+                    <p class="desc">Obsequio Sp. z o.o. Sp. k.</p>
                     <p class="desc">ul. Św. Jerzego 1A</p>
                     <p class="desc">50-518 Wrocław</p>
                     <p class="desc">NIP: 8951788428</p>

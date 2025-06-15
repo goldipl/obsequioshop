@@ -43,7 +43,7 @@
                 <p class="small-text">9:00 - 17:00</p>
             </div>
             <div class="footer_top-col--text location">
-                <p class="small-text">Spark Promotions Sp. z o.o. Sp. k. <br>ul. Św. Jerzego 1A<br>50-518 Wrocław<br>NIP: 8951788428</p>
+                <p class="small-text">Obsequio Sp. z o.o. Sp. k. <br>ul. Św. Jerzego 1A<br>50-518 Wrocław<br>NIP: 8951788428</p>
             </div>
         </div>
         <div class="footer_top-col">
@@ -71,7 +71,7 @@
         </div>
     </div>
     <div class="footer_bottom">
-        <p>© Spark Promotions Sp. z o.o. S.k. 2010 - <span></span>. All rights reserved.</p>
+        <p>© Obsequio Sp. z o.o. S.k. 2010 - <span></span>. All rights reserved.</p>
         <p class="contip">Realizacja <a href="https://www.contip.net/"><img src="./assets/img/contip-logo.png" height="24" alt="Contip logo"></a></p>
     </div>
 </div>
