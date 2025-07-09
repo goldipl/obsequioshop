@@ -45,8 +45,11 @@
     </div>
     <div class="bottom-nav">
         <div class="left-container">
+            <a href="/" class="home-link">
+                <img src="./assets/icons/header/home.svg" alt="Home">
+            </a>
             <ul>
-                <li class="bottom-nav-links category first-line">Kategorie <div class="bottom-nav-sublist office">
+                <li class="bottom-nav-links category first-line">Bags and backpacks <div class="bottom-nav-sublist office">
                         <ul>
                             <li>
                                 <a href="#">Artykuły biurowe</a>
