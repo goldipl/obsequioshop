@@ -228,14 +228,31 @@ h1.mainpage-title::before {
     width: 100%;
   }
 }
+body {
+  padding-top: 184px;
+}
+@media (max-width: 1260px) {
+  body {
+    padding-top: 80px;
+  }
+  body:has(header.menu-open) {
+    padding-top: 0;
+  }
+}
+@media (max-width: 760px) {
+  body {
+    padding-top: 52px;
+  }
+}
+
 header {
-  position: relative;
+  position: fixed;
   top: 0;
   left: 0;
   right: 0;
   background-color: #FFFFFF;
   width: 100vw;
-  z-index: 10;
+  z-index: 50;
   margin-bottom: -10px;
 }
 header.menu-open {
@@ -427,7 +444,7 @@ header #nav .bottom-nav .left-container .home-link {
   width: 20px;
   padding: 28px 0;
 }
-@media (max-width: 991px) {
+@media (max-width: 1260px) {
   header #nav .bottom-nav .left-container .home-link {
     padding: 0;
   }
@@ -540,7 +557,7 @@ header #nav .bottom-nav .left-container ul li.bottom-nav-links.category {
     font-size: 13px;
   }
 }
-@media (max-width: 991px) {
+@media (max-width: 1260px) {
   header #nav .bottom-nav .left-container ul li.bottom-nav-links.category {
     font-size: 16px;
   }
