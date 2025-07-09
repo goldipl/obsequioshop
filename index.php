@@ -15,8 +15,8 @@
         </header>
         <div id="main-wrapper">
             <?php include "./components/main_page/swiper.php"; ?> 
-            <?php include "./components/main_page/popular_categories.php"; ?> 
             <?php include "./components/main_page/banners.php"; ?> 
+            <?php include "./components/main_page/popular_categories.php"; ?> 
             <?php include "./components/main_page/our_clients.php"; ?> 
             <?php include "./components/main_page/about_us.php"; ?> 
             <?php include "./components/main_page/our_team.php"; ?> 
