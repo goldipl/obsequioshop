@@ -26,12 +26,12 @@ body #main-wrapper {
   position: relative;
   background-color: #ffffff;
   &.dark-background::before {
-    position: absolute;
+    position: fixed;
     content: "";
     top: 0;
-    left: calc((100vw - 1320px) / 2 * -1);
+    left: -50vw;
     background-color: #00000065;
-    width: 100vw;
+    width: 200vw;
     height: 100vh;
     z-index: 9;
   }
