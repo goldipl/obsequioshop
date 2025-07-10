@@ -2,36 +2,36 @@
     <div class="footer_top">
         <div class="footer_top-col">
             <div class="footer_top-col--title">
-                <p>Popularne kategorie</p>
+                <p>Popular categories</p>
             </div>
             <div class="footer_top-col--text">
-                <a href="#">Do picia</a>
+                <a href="#">To drink</a>
             </div>
             <div class="footer_top-col--text">
-                <a href="#">Długopisy i zestawy piśmienne</a>
+                <a href="#">Pens and stationery sets</a>
             </div>
             <div class="footer_top-col--text">
-                <a href="#">Odzież i tekstylia</a>
+                <a href="#">Clothing and textiles</a>
             </div>
             <div class="footer_top-col--text">
-                <a href="#">Latarki i narzędzia</a>
+                <a href="#">Flashlights and tools</a>
             </div>
             <div class="footer_top-col--text">
-                <a href="#">Pamięci USB</a>
+                <a href="#">USB flash drives</a>
             </div>
             <div class="footer_top-col--text">
-                <a href="#">Sport i rekreacja</a>
+                <a href="#">Sports and recreation</a>
             </div>
             <div class="footer_top-col--text">
-                <a href="#">Artykuły biurowe</a>
+                <a href="#">Office supplies</a>
             </div>
             <div class="footer_top-col--text">
-                <a href="#">Dyski</a>
+                <a href="#">Drives</a>
             </div>
         </div>
         <div class="footer_top-col">
             <div class="footer_top-col--title">
-                <p>Kontakt</p>
+                <p>Contact Us</p>
             </div>
             <div class="footer_top-col--text telephone">
                 <a class="gtm-phone" href="tel:+48 71 326 74 10">+48 71 326 74 10</a>
@@ -46,28 +46,38 @@
                 <p class="small-text">Obsequio Sp. z o.o. Sp. k. <br>ul. Św. Jerzego 1A<br>50-518 Wrocław<br>NIP: 8951788428</p>
             </div>
         </div>
+        <div class="footer_top-col"></div>
         <div class="footer_top-col">
             <div class="footer_top-col--title">
-                <p>Newsletter</p>
+                <p>Member of spark promotions</p>
             </div>
-            <form class="newsletter_footer_container">
-                <input type="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" name="newsletter" id="newsletter_input" placeholder="Wpisz adres e-mail" required>
-                <button id="newsletter_btn">Zapisz się</button>
-            </form>
-            <div class="footer_top-col--text">
-                <p class="small-text">Zapisz się do NEWSLETTERA i otrzymuj <br>na bieżąco informacje o naszych <br>promocjach i wyprzedażach.</p>
+            <div class="footer_top-col--img">
+                <img src="./assets/icons/footer/spark-white.svg" alt="Spark Promotions" width="181" height="94">
             </div>
         </div>
-        <div class="footer_top-col">
-            <div class="footer_top-col--title">
-                <p>Nagrody i certyfikaty</p>
-            </div>
-            <div class="footer_top-col--img">
-                <img class="prize-img" src="./assets/img/footer/rzetelna-firma.jpg" alt="prize01" width="197" height="85">
-            </div>
-            <div class="footer_top-col--img">
-                <img src="./assets/img/footer/zaufanypartnerwbiznesie.jpg" alt="prize02" width="180" height="57">
-            </div>
+    </div>
+    <div class="footer_center">
+        <div class="slot-offices">
+            <span>International Offices:</span>
+            <a href="">Germany</a>
+            <a href="">Hungary</a>
+            <a href="">Poland</a>
+            <a href="">Slovenia</a>
+            <a href="">Austria</a>
+            <a href="">Spain</a>
+            <a href="">Croatia</a>
+            <a href="">Hong Kong</a>
+            <a href="">South Africa</a>
+        </div>
+        <div class="slot-links">
+            <a href="">About Us</a>
+            <a href="">Customer Service</a>
+            <a href="">Terms and Conditions</a>
+            <a href="">Legal notice website</a>
+            <a href="">Private Policy</a>
+            <a href="">Cookie Policy</a>
+            <a href="">Site map</a>
+            <a href="">Contact us</a>
         </div>
     </div>
     <div class="footer_bottom">
