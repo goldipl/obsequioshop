@@ -1,5 +1,5 @@
 <section id="our_clients">
-    <h1><span>Customers</span>, who trust us</h1>
+    <h2><span>Customers</span>, who trust us</h2>
     <p>Large brands rely on our corporate gifts for their marketing and advertising campaigns.</p>
     <div id="clients_swiper">
         <!-- Slider main container -->

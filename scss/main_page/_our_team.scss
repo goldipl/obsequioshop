@@ -1,5 +1,5 @@
 #our_team {
-  h1 {
+  h2 {
     font-size: 28px;
     font-style: normal;
     font-weight: 700;
@@ -148,7 +148,7 @@
 
 @media (max-width: 1380px) {
   #our_team {
-    h1 {
+    h2 {
       font-size: 24px;
     }
     p {
@@ -233,6 +233,9 @@
 
 @media (max-width: 700px) {
   #our_team {
+    h2 {
+      font-size: 20px;
+    }
     .our_team_container {
       margin-bottom: 32px;
       &__slot {

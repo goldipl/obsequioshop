@@ -1,5 +1,5 @@
 <section id="our_team">
-    <h1 class="title">Our <span>team</span></h1>
+    <h2 class="title">Our <span>team</span></h2>
     <p class="desc">They will advise, recommend, prepare a quotation, and will be happy to answer all your questions. Our team consists of ten colorful personalities who, with their experience in the advertising industry, will be a professional support in promoting your company.</p>
     <div class="our_team_container">
         <div class="our_team_container__slot">

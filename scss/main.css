@@ -151,7 +151,12 @@ h1.mainpage-title::before {
   }
 }
 .main-desc {
-  margin-bottom: 40px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 0 auto 40px auto;
+  width: 100%;
 }
 .main-desc p {
   position: relative;
@@ -1404,6 +1409,11 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
   margin-bottom: 0;
   z-index: 1;
 }
+@media (max-width: 800px) {
+  #popular_categories {
+    padding-top: 24px;
+  }
+}
 #popular_categories::before {
   position: absolute;
   display: block;
@@ -1417,7 +1427,7 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
 }
 #popular_categories h2 {
   position: relative;
-  display: flex;
+  display: inline;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -1430,6 +1440,11 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
   margin: 0 0 16px 0;
   z-index: 1;
   gap: 4px;
+}
+@media (max-width: 800px) {
+  #popular_categories h2 {
+    font-size: 20px;
+  }
 }
 #popular_categories h2 span {
   color: #68B236;
@@ -1579,7 +1594,7 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
     top: calc(50% - 5px);
   }
 }
-#our_clients h1 {
+#our_clients h2 {
   font-size: 28px;
   font-style: normal;
   font-weight: 700;
@@ -1588,7 +1603,7 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
   color: #333333;
   margin: 0 0 23px 0;
 }
-#our_clients h1 span {
+#our_clients h2 span {
   color: #68B236;
   text-decoration: underline;
 }
@@ -1642,7 +1657,7 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
 }
 
 @media (max-width: 1320px) {
-  #our_clients h1 {
+  #our_clients h2 {
     font-size: 24px;
   }
   #our_clients p {
@@ -1650,7 +1665,7 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
   }
 }
 @media (max-width: 760px) {
-  #our_clients h1 {
+  #our_clients h2 {
     font-size: 20px;
   }
   #our_clients p {
@@ -1689,7 +1704,7 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
   width: 50%;
   margin-right: 0;
 }
-#about_us .about_us_container__column h1 {
+#about_us .about_us_container__column h2 {
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
@@ -1697,7 +1712,7 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
   text-transform: uppercase;
   color: #333333;
 }
-#about_us .about_us_container__column h1 span {
+#about_us .about_us_container__column h2 span {
   color: #68B236;
 }
 #about_us .about_us_container__column p {
@@ -1749,11 +1764,11 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
   #about_us .about_us_container__column.second {
     width: 100%;
   }
-  #about_us .about_us_container__column h1 {
+  #about_us .about_us_container__column h2 {
     font-size: 20px;
   }
 }
-#our_team h1 {
+#our_team h2 {
   font-size: 28px;
   font-style: normal;
   font-weight: 700;
@@ -1762,7 +1777,7 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
   color: #333333;
   margin: 0 0 26px 0;
 }
-#our_team h1 span {
+#our_team h2 span {
   color: #68B236;
   text-decoration: underline;
 }
@@ -1888,7 +1903,7 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
   }
 }
 @media (max-width: 1380px) {
-  #our_team h1 {
+  #our_team h2 {
     font-size: 24px;
   }
   #our_team p {
@@ -1957,6 +1972,9 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
   }
 }
 @media (max-width: 700px) {
+  #our_team h2 {
+    font-size: 20px;
+  }
   #our_team .our_team_container {
     margin-bottom: 32px;
   }
@@ -1966,7 +1984,7 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
 }
 #opinions h2 {
   position: relative;
-  display: flex;
+  display: inline;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -1983,6 +2001,38 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
 #opinions h2 span {
   color: #68B236;
   text-decoration: underline;
+}
+@media (max-width: 800px) {
+  #opinions h2 {
+    font-size: 20px;
+  }
+}
+
+#blog h2 {
+  position: relative;
+  display: inline;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  color: #333333;
+  margin: 0 auto 16px auto;
+  z-index: 1;
+  gap: 4px;
+  text-align: center;
+}
+#blog h2 span {
+  color: #68B236;
+  text-decoration: underline;
+}
+@media (max-width: 800px) {
+  #blog h2 {
+    font-size: 20px;
+  }
 }
 
 .aside_boxes {
