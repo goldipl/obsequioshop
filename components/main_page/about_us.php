@@ -1,17 +1,42 @@
 <section id="about_us">
     <div class="about_us_container">
         <div class="about_us_container__column">
-            <h1>O <span>nas</span></h1>
-            <p>Obsequio to <a href="http://">agencja reklamowa</a>, specjalizująca się w sprzedaży gadżetów promocyjnych dla firm i instytucji. Realizujemy <strong>zamówienia katalogowe</strong> oraz <strong>zlecenia importowe</strong>. Sukcesywnie powiększamy nasz asortyment o oferty renomowanych dostawców. Na życzenie klienta projektujemy gadżety od podstaw i czuwamy nad procesem ich produkcji.Towar, który proponujemy naszym odbiorcom znakujemy w profesjonalnej drukarni, dobierając najlepszą do tego metodę.<br><i>Przypominamy, że ceny podane na stronie są cenami netto oraz nie zawierają kosztów znakowania i transportu.</i></p>
-            <h1>Nie masz pomysłu na <span>skuteczną reklamę</span>? Postaw na <span>gadżety reklamowe</span> i zapadnij w pamięci klientów!</h1>
-            <p>Klient to największe dobro każdego przedsiębiorcy. Dotarcie do szerokiego grona odbiorców to gwarancja odniesienia biznesowego sukcesu. W dobie wzmożonego rozwoju gospodarki i stale rosnącej konkurencji rozreklamowanie swojej marki jest jednak prawdziwą sztuką. Wybierając formę reklamy musimy nie tylko wyróżnić swoją ofertę na tle innych, ale także utkwić w pamięci wymagających klientów.</p>
-            <p>Dlatego nowoczesny marketing ma na celu zwiększenie sprzedaży i zbudowanie pozytywnego wizerunku firmy, z którym klienci będą chcieli się utożsamiać. Jak pokazują badania najlepszym sposobem tworzenia rozpoznawalności marki są gadżety reklamowe.</p>
+            <h1>About <span>us</span></h1>
+            <p><strong>Our company's mission is to create simple and quick access to promotional
+products at the lowest possible prices whilst maintaining the highest quality.
+</strong></p>
+            <p><strong>Specialist</strong> – a team with many years experience in the advertising and promotional
+industry, specializing in promotional articles and merchandising.
+<br><strong>Professionals</strong> – we are a group of highly qualified specialists and advisors. We have
+imagination, experience and are up to date with the markets latest trends. We will help you
+obtain your companies needs and make the correct selection of products.
+<br><strong>Attractive offer</strong> – we have hundreds of manufacturers and suppliers worldwide, offering a
+large selection of promotional products. We perform printing, stamping and manipulation of
+products in all possible techniques.
+<br><strong>Reliability </strong>– we will not promise something we cannot deliver. We will deliver on time what
+we have promised.
+<br><strong>Know-how</strong> – Obsequio e Imagen are members of the Spark Promotions brand, which
+exists in Germany, Great Britain, Ireland, Hungary, Poland and Spain. The knowledge and
+skills of hundreds of people of many nationalities are on your side!
+</p>
         </div>
         <div class="about_us_container__column second">
-            <h1>Buduj świadomość swojej marki poprzez <span>gustowne upominki reklamowe</span></h1>
-            <p>SPARK-PROMOTIONS skupia się na produkcji i imporcie gadżetów reklamowych dla firm . Nasi klienci stanowią dla nas największe dobro, dlatego z myślą o nich stale ulepszamy i powiększamy naszą ofertę. Wiemy w jak różnorodnych branżach działają i dlatego do każdego zlecenia podchodzimy w sposób indywidualny. Oferowane przez nas produkty są tworzone z najwyższą starannością tak, by zadowolić nawet najbardziej wymagających klientów.</p>
-            <p>Każda firma pragnąca budować rozpoznawalność swojej marki znajdzie na naszej stronie spersonalizowane produkty m. in. długopisy reklamowe, kubki z nadrukiem, koszulki, bluzy, pamięć USB, papeterie i wiele innych. Inwestując w gadżety reklamowe mają Państwo pewność uzyskania szybkiego wzrostu sprzedaży i zwiększenia rozpoznawalności swojej marki. Nasze produkty są produkowane zgodnie z Państwa oczekiwaniami.</p>
-            <p>Lata doświadczenia i stosowanie najwyższej jakości elementów sprawiły, że wiemy jak korzystnie rozreklamować firmy z różnych branż. Ilość zadowolonych klientów jest potwierdzeniem, że oferowane przez nas artykuły promocyjne docierają do szerokiej rzeszy potencjalnych nabywców. Masz problem z doborem odpowiednich gadżetów? Nasi konsultanci służą swoją pomocą! Dlatego nie czekaj i zainwestuj w rozwój swojej marki, a spektakularne efekty pojawią się szybciej niż myślisz. Pamiętaj, że gadżety promocyjne od SPARK-PROMOTIONS to miły upominek, który zostanie zapamiętany na długo!</p>
+            <h1>BUILD YOUR BRAND AWARENESS WITH TASTEFUL <span>PROMOTIONAL GIFTS</span></h1>
+            <p>OBSEQUIO E IMAGEN S.L.U focuses on the production and import of advertising gifts for
+companies. Our clients are our greatest asset, which is why we are constantly improving
+and expanding our offer with them in mind. We know how diverse industries operate and
+that is why we approach each order individually. The products we offer are created with the
+utmost care to satisfy even the most demanding customers. Every company that wants to
+build brand recognition will find personalized products on our website, including advertising
+pens, printed mugs, T-shirts, sweatshirts, USB memory sticks, stationery and many other
+items. By investing in advertising gifts, you can be sure of achieving a rapid increase in
+sales and increasing your brand recognition. Our products are manufactured in accordance
+with your expectations. Years of experience and the use of the highest quality components
+have meant that we know how to advantageously advertise companies of various
+industries. The number of satisfied customers is confirmation that the promotional items we
+offer reach a wide range of potential buyers. Are you having trouble choosing the right gifts?. Our consultants are here to help! So don't wait and invest in the development of your
+brand. Remember that promotional gadgets from OBSEQUIO E IMAGEN S.L.U are a nice
+gift that will be remembered for a long time!</p>
         </div>
     </div>
 </section>
