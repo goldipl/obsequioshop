@@ -684,7 +684,7 @@ header #nav .bottom-nav .left-container ul li .bottom-nav-sublist ul li strong {
 }
 header #nav .bottom-nav .left-container ul li .bottom-nav-sublist ul li.arrow-link {
   gap: 8px;
-  padding-left: 16px;
+  padding-left: 28px;
 }
 header #nav .bottom-nav .left-container ul li .bottom-nav-sublist ul li a {
   position: relative;
