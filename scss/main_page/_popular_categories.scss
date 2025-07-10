@@ -10,9 +10,9 @@
     display: block;
     content: "";
     background-color: $grey_light3;
-    left: calc(((100vw - 1320px) / 2) * (-1));
+    left: -50vw;
     top: 0;
-    width: 100vw;
+    width: 200vw;
     height: 100%;
     z-index: 0;
   }
@@ -43,12 +43,19 @@
     gap: 49px;
     z-index: 1;
     padding-bottom: 48px;
+    @media (max-width: 800px) {
+      gap: 32px 24px;
+    }
     &-slot {
       flex: 1 1 calc((100% - 2 * 49px) / 3);
       max-width: calc((100% - 2 * 49px) / 3);
       color: $light_black;
       text-decoration: none;
       margin-bottom: 24px;
+      @media (max-width: 800px) {
+        flex: 1 1 calc((100% - 24px) / 2);
+        max-width: calc((100% - 24px) / 2);
+      }
       &__img {
         width: 100%;
         height: 100%;
@@ -63,6 +70,10 @@
           font-size: 16px;
           color: $light_black;
           margin: 7px 0 0 0;
+          @media (max-width: 800px) {
+            font-size: 14px;
+            line-height: 17px;
+          }
         }
       }
       &:hover {

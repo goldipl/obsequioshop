@@ -155,5 +155,9 @@ h1.mainpage-title {
     z-index: 1;
     text-align: center;
     margin: 0 0 12px 0;
+    @media (max-width: 760px) {
+      font-size: 14px;
+      line-height: 17px;
+    }
   }
 }
