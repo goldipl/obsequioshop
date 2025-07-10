@@ -1964,6 +1964,27 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
     width: 100%;
   }
 }
+#opinions h2 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  color: #333333;
+  margin: 0 0 16px 0;
+  z-index: 1;
+  gap: 4px;
+}
+#opinions h2 span {
+  color: #68B236;
+  text-decoration: underline;
+}
+
 .aside_boxes {
   margin-top: 0;
   margin-bottom: 16px;

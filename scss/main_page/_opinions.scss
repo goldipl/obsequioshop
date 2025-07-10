@@ -1,0 +1,22 @@
+#opinions {
+  h2 {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    color: $light_black;
+    margin: 0 0 16px 0;
+    z-index: 1;
+    gap: 4px;
+    span {
+      color: $main_color;
+      text-decoration: underline;
+    }
+  }
+}

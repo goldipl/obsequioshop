@@ -21,7 +21,7 @@
             <?php include "./components/main_page/our_clients.php"; ?> 
             <?php include "./components/main_page/about_us.php"; ?> 
             <?php include "./components/main_page/our_team.php"; ?> 
-            <?php include "./components/main_page/leave_message.php"; ?> 
+            <?php include "./components/main_page/opinions.php"; ?> 
         </div>
         <footer> 
             <?php include "./components/footer.php"; ?> 
