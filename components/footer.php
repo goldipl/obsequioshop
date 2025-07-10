@@ -71,7 +71,7 @@
         </div>
     </div>
     <div class="footer_bottom">
-        <p>© Obsequio Sp. z o.o. S.k. 2010 - <span></span>. All rights reserved.</p>
-        <p class="contip">Realizacja <a href="https://www.contip.net/"><img src="./assets/img/contip-logo.png" height="24" alt="Contip logo"></a></p>
+        <p>© Obsequio e Imagen S.L.U. <span></span> |  All rights reserved.</p>
+        <p class="contip">Realization <a href="https://www.contip.net/"><img src="./assets/img/contip-logo.png" height="24" alt="Contip logo"></a></p>
     </div>
 </div>
