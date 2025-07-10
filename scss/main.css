@@ -1269,6 +1269,18 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
   margin: 10px auto 0;
   left: calc((100vw - 1320px) / 2 * -1);
   top: 0;
+  background-color: #F8F8F8;
+}
+#swiper::before {
+  position: absolute;
+  display: block;
+  content: "";
+  background-color: #F8F8F8;
+  left: calc((100vw - 1320px) / 2 * -1);
+  top: -16px;
+  width: 100vw;
+  height: 100%;
+  z-index: 0;
 }
 #swiper .swiper {
   width: 100%;
@@ -1654,9 +1666,21 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
   }
 }
 #banners {
-  background-color: #FFFFFF;
-  margin-bottom: 54px;
+  position: relative;
   margin-top: 0;
+  margin-bottom: 0;
+  background-color: #F8F8F8;
+}
+#banners::before {
+  position: absolute;
+  display: block;
+  content: "";
+  background-color: #F8F8F8;
+  left: calc((100vw - 1320px) / 2 * -1);
+  top: 0;
+  width: 100vw;
+  height: 100%;
+  z-index: 0;
 }
 #banners .banners_container {
   display: flex;
