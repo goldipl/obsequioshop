@@ -1,7 +1,10 @@
 <section id="popular_categories">
-    <h1 class="title">
-        <span>Popularne</span> kategorie
-    </h1>
+    <div class="main-desc">
+        <h1 class="title">
+            <span>Popular</span>,categories
+        </h1>
+        <p>Custom corporate merchandise, cheap promotional products, customized promotional items</p>
+    </div>
     <div class="the_tabs">
         <div class="the_tabs__arrow-left">
             <img src="./assets/icons/tabs/arrow-left.svg">
