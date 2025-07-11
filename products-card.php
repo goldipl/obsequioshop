@@ -43,7 +43,7 @@
         <footer> 
             <?php include "./components/footer.php"; ?> 
         </footer>
-        <!-- Pricing and visualisation modal -->
+        <!-- Pricing and visualization modal -->
         <form class="products_card_modal pricing-visualisation">
             <span class="products_card_modal--close-icon"></span>
             <p class="products_card_modal--title">Pricing and Visualization via Email</p>

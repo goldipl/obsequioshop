@@ -1,25 +1,25 @@
 <div class="clients_panel_orders_content">
     <div class="clients_panel_orders_content__left">
         <aside class="clients_panel_aside">
-            <p class="clients_panel_aside--title">Cześć! <br>
+            <p class="clients_panel_aside--title">Hello! <br>
                 <span>Jan Kowalski</span>
             </p>
             <a class="clients_panel_aside--slot orders active" href="./clients-panel-orders.php">
-                <p>Zamówienia</p>
+                <p>Orders</p>
             </a>
             <a class="clients_panel_aside--slot data" href="./clients-panel-my-data.php">
-                <p>Twoje Dane</p>
+                <p>Your Data</p>
             </a>
             <a class="clients_panel_aside--slot fv" href="./clients-panel-fv.php">
-                <p>Dane do faktury</p>
+                <p>Invoice Data</p>
             </a>
             <a class="clients_panel_aside--slot addresses" href="./clients-panel-addresses.php">
-                <p>Adres wysyłki</p>
+                <p>Shipping Address</p>
             </a>
         </aside>
     </div>
     <div class="clients_panel_orders_content__right">
-        <h1 class="title">Zamówienia</h1>
+        <h1 class="title">Orders</h1>
         <div class="panel_orders_box">
             <div class="panel_orders_box__slot send">
                 <div class="panel_orders_box__slot__top">
@@ -27,21 +27,21 @@
                         <img src="./assets/img/products_card/small-klip-black.jpg" alt="product img" width="115" height="115">
                     </a>
                     <div class="slot-text">
-                        <a href="#" class="title">Klip do dokumentów</a>
-                        <p class="desc">Metoda znakowania: Sitodruk</p>
-                        <p class="desc">Ilość kolorów nadruku: 1</p>
-                        <p class="desc">Pozycja nadruku: Front </p>
+                        <a href="#" class="title">Document Clip</a>
+                        <p class="desc">Marking method: Screen printing</p>
+                        <p class="desc">Number of print colors: 1</p>
+                        <p class="desc">Print position: Front</p>
                     </div>
                     <div class="slot-text second">
-                        <p class="desc">Data zamówienia: 08.07.2023</p>
-                        <p class="desc">Numer zamówienia: 541654488</p>
+                        <p class="desc">Order date: 08.07.2023</p>
+                        <p class="desc">Order number: 541654488</p>
                     </div>
                     <div class="slot-text third">
                         <p class="price">
                             <span class="big green">100,66</span>
                             <span class="large green">€</span>
                         </p>
-                        <a class="details" href="./clients-panel-orders-details.php">Szczegóły</a>
+                        <a class="details" href="./clients-panel-orders-details.php">Details</a>
                     </div>
                 </div>
                 <div class="panel_orders_box__slot__top">
@@ -49,21 +49,21 @@
                         <img src="./assets/img/products_card/small-klip-black.jpg" alt="product img" width="115" height="115">
                     </a>
                     <div class="slot-text">
-                        <a href="#" class="title">Klip do dokumentów</a>
-                        <p class="desc">Metoda znakowania: Sitodruk</p>
-                        <p class="desc">Ilość kolorów nadruku: 1</p>
-                        <p class="desc">Pozycja nadruku: Front </p>
+                        <a href="#" class="title">Document Clip</a>
+                        <p class="desc">Marking method: Screen printing</p>
+                        <p class="desc">Number of print colors: 1</p>
+                        <p class="desc">Print position: Front</p>
                     </div>
                     <div class="slot-text second">
-                        <p class="desc">Data zamówienia: 08.07.2023</p>
-                        <p class="desc">Numer zamówienia: 541654488</p>
+                        <p class="desc">Order date: 08.07.2023</p>
+                        <p class="desc">Order number: 541654488</p>
                     </div>
                     <div class="slot-text third">
                         <p class="price">
                             <span class="big green">100,66</span>
                             <span class="large green">€</span>
                         </p>
-                        <a class="details" href="./clients-panel-orders-details.php">Szczegóły</a>
+                        <a class="details" href="./clients-panel-orders-details.php">Details</a>
                     </div>
                 </div>
                 <div class="panel_orders_box__slot__top">
@@ -71,25 +71,25 @@
                         <img src="./assets/img/products_card/small-klip-black.jpg" alt="product img" width="115" height="115">
                     </a>
                     <div class="slot-text">
-                        <a href="#" class="title">Klip do dokumentów</a>
-                        <p class="desc">Metoda znakowania: Sitodruk</p>
-                        <p class="desc">Ilość kolorów nadruku: 1</p>
-                        <p class="desc">Pozycja nadruku: Front </p>
+                        <a href="#" class="title">Document Clip</a>
+                        <p class="desc">Marking method: Screen printing</p>
+                        <p class="desc">Number of print colors: 1</p>
+                        <p class="desc">Print position: Front</p>
                     </div>
                     <div class="slot-text second">
-                        <p class="desc">Data zamówienia: 08.07.2023</p>
-                        <p class="desc">Numer zamówienia: 541654488</p>
+                        <p class="desc">Order date: 08.07.2023</p>
+                        <p class="desc">Order number: 541654488</p>
                     </div>
                     <div class="slot-text third">
                         <p class="price">
                             <span class="big green">100,66</span>
                             <span class="large green">€</span>
                         </p>
-                        <a class="details" href="./clients-panel-orders-details.php">Szczegóły</a>
+                        <a class="details" href="./clients-panel-orders-details.php">Details</a>
                     </div>
                 </div>
                 <div class="panel_orders_box_slot__bottom">
-                    <p class="info">Wysłane</p>
+                    <p class="info">Sent</p>
                 </div>
             </div>
             <div class="panel_orders_box__slot accepted">
@@ -98,21 +98,21 @@
                         <img src="./assets/img/products_card/small-klip-black.jpg" alt="product img" width="115" height="115">
                     </a>
                     <div class="slot-text">
-                        <a href="#" class="title">Klip do dokumentów</a>
-                        <p class="desc">Metoda znakowania: Sitodruk</p>
-                        <p class="desc">Ilość kolorów nadruku: 1</p>
-                        <p class="desc">Pozycja nadruku: Front </p>
+                        <a href="#" class="title">Document Clip</a>
+                        <p class="desc">Marking method: Screen printing</p>
+                        <p class="desc">Number of print colors: 1</p>
+                        <p class="desc">Print position: Front</p>
                     </div>
                     <div class="slot-text second">
-                        <p class="desc">Data zamówienia: 08.07.2023</p>
-                        <p class="desc">Numer zamówienia: 541654488</p>
+                        <p class="desc">Order date: 08.07.2023</p>
+                        <p class="desc">Order number: 541654488</p>
                     </div>
                     <div class="slot-text third">
                         <p class="price">
                             <span class="big green">100,66</span>
                             <span class="large green">€</span>
                         </p>
-                        <a class="details" href="./clients-panel-orders-details.php">Szczegóły</a>
+                        <a class="details" href="./clients-panel-orders-details.php">Details</a>
                     </div>
                 </div>
                 <div class="panel_orders_box__slot__top">
@@ -120,25 +120,25 @@
                         <img src="./assets/img/products_card/small-klip-black.jpg" alt="product img" width="115" height="115">
                     </a>
                     <div class="slot-text">
-                        <a href="#" class="title">Klip do dokumentów</a>
-                        <p class="desc">Metoda znakowania: Sitodruk</p>
-                        <p class="desc">Ilość kolorów nadruku: 1</p>
-                        <p class="desc">Pozycja nadruku: Front </p>
+                        <a href="#" class="title">Document Clip</a>
+                        <p class="desc">Marking method: Screen printing</p>
+                        <p class="desc">Number of print colors: 1</p>
+                        <p class="desc">Print position: Front</p>
                     </div>
                     <div class="slot-text second">
-                        <p class="desc">Data zamówienia: 08.07.2023</p>
-                        <p class="desc">Numer zamówienia: 541654488</p>
+                        <p class="desc">Order date: 08.07.2023</p>
+                        <p class="desc">Order number: 541654488</p>
                     </div>
                     <div class="slot-text third">
                         <p class="price">
                             <span class="big green">100,66</span>
                             <span class="large green">€</span>
                         </p>
-                        <a class="details" href="./clients-panel-orders-details.php">Szczegóły</a>
+                        <a class="details" href="./clients-panel-orders-details.php">Details</a>
                     </div>
                 </div>
                 <div class="panel_orders_box_slot__bottom">
-                    <p class="info">Przyjęte</p>
+                    <p class="info">Accepted</p>
                 </div>
             </div>
         </div>

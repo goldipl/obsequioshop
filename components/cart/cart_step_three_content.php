@@ -7,19 +7,19 @@
                 </a>
                 <div class="cart_product_container--text">
                     <a href="#" class="title">
-                        <p>Klip do dokumentów</p>
+                        <p>Document Clip</p>
                     </a>
                     <div class="text-slot">
                         <div class="text-slot--left">
-                            <p>Metoda znakowania:</p>
+                            <p>Marking method:</p>
                         </div>
                         <div class="text-slot--right">
-                            <p>Sitodruk</p>
+                            <p>Screen printing</p>
                         </div>
                     </div>
                     <div class="text-slot">
                         <div class="text-slot--left">
-                            <p>Ilość kolorów nadruku:</p>
+                            <p>Number of print colors:</p>
                         </div>
                         <div class="text-slot--right">
                             <p>1</p>
@@ -27,7 +27,7 @@
                     </div>
                     <div class="text-slot">
                         <div class="text-slot--left">
-                            <p>Pozycja nadruku:</p>
+                            <p>Print position:</p>
                         </div>
                         <div class="text-slot--right">
                             <p>Front</p>
@@ -35,25 +35,25 @@
                     </div>
                     <div class="text-slot products-price">
                         <div class="text-slot--price-text">
-                            <p>Cena:</p>
+                            <p>Price:</p>
                         </div>
                         <div class="text-slot--price-value">
-                            <p class="price"><span class="big green">100,66</span><span class="large green">€</span></p>
+                            <p class="price"><span class="big green">100.66</span><span class="large green">€</span></p>
                         </div>
                     </div>
                 </div>
                 <div class="cart_product_container--input">
-                    <label for="cart_product_quantity">Ilość:</label>
+                    <label for="cart_product_quantity">Quantity:</label>
                     <input type="number" name="cart_product_quantity" id="cart_product_quantity" min="0" value="21">
                 </div>
                 <div class="cart_product_container--files">
-                    <p class="desc">Wgraj pliki:</p>
+                    <p class="desc">Upload files:</p>
                     <label for="files" class="add-files" id="add-files">
                         <img class="add-files-img" src="./assets/icons/cart/upload.svg" alt="upload" width="21" height="14">
-                        <p class="add-files-text">Przeciągnij i upuść albo <br>Dodaj plik</p>
+                        <p class="add-files-text">Drag and drop or <br>Add file</p>
                         <input class="file file-block" type="file" id="files">
                     </label>
-                    <p class="info">Wymagamy plik w wektorach <br>format pliku pdf zapisany w krzywych (czcionka i kontury)</p>
+                    <p class="info">We require vector files <br>PDF format saved in curves (fonts and outlines)</p>
                 </div>
             </div>
         </div>
@@ -64,19 +64,19 @@
                 </a>
                 <div class="cart_product_container--text">
                     <a href="#" class="title">
-                        <p>Klip do dokumentów</p>
+                        <p>Document Clip</p>
                     </a>
                     <div class="text-slot">
                         <div class="text-slot--left">
-                            <p>Metoda znakowania:</p>
+                            <p>Marking method:</p>
                         </div>
                         <div class="text-slot--right">
-                            <p>Sitodruk</p>
+                            <p>Screen printing</p>
                         </div>
                     </div>
                     <div class="text-slot">
                         <div class="text-slot--left">
-                            <p>Ilość kolorów nadruku:</p>
+                            <p>Number of print colors:</p>
                         </div>
                         <div class="text-slot--right">
                             <p>1</p>
@@ -84,7 +84,7 @@
                     </div>
                     <div class="text-slot">
                         <div class="text-slot--left">
-                            <p>Pozycja nadruku:</p>
+                            <p>Print position:</p>
                         </div>
                         <div class="text-slot--right">
                             <p>Front</p>
@@ -92,79 +92,79 @@
                     </div>
                     <div class="text-slot products-price">
                         <div class="text-slot--price-text">
-                            <p>Cena:</p>
+                            <p>Price:</p>
                         </div>
                         <div class="text-slot--price-value">
-                            <p class="price"><span class="big green">100,66</span><span class="large green">€</span></p>
+                            <p class="price"><span class="big green">100.66</span><span class="large green">€</span></p>
                         </div>
                     </div>
                 </div>
                 <div class="cart_product_container--input">
-                    <label for="cart_product_quantity">Ilość:</label>
+                    <label for="cart_product_quantity">Quantity:</label>
                     <input type="number" name="cart_product_quantity" id="cart_product_quantity" min="0" value="21">
                 </div>
                 <div class="cart_product_container--files">
-                    <p class="desc">Wgraj pliki:</p>
+                    <p class="desc">Upload files:</p>
                     <label for="files2" class="add-files" id="add-files">
                         <img class="add-files-img" src="./assets/icons/cart/upload.svg" alt="upload" width="21" height="14">
-                        <p class="add-files-text">Przeciągnij i upuść albo <br>Dodaj plik</p>
+                        <p class="add-files-text">Drag and drop or <br>Add file</p>
                         <input class="file file-block" type="file" id="files2">
                     </label>
-                    <p class="info">Wymagamy plik w wektorach <br>format pliku pdf zapisany w krzywych (czcionka i kontury)</p>
+                    <p class="info">We require vector files <br>PDF format saved in curves (fonts and outlines)</p>
                 </div>
             </div>
         </div>
         <div class="delivery_invoice_box">
             <div class="delivery_invoice_box__left">
-                <p class="title">Adres dostawy</p>
-                <p class="desc">Firma 1</p>
+                <p class="title">Delivery address</p>
+                <p class="desc">Company 1</p>
                 <p class="desc">Rzeszowska 19</p>
                 <p class="desc">43-472 Kraków</p>
                 <p class="desc">tel. 658 745 111</p>
             </div>
             <div class="delivery_invoice_box__right">
-                <p class="title">Dane do faktury</p>
-                <p class="desc">Firma 1</p>
+                <p class="title">Invoice details</p>
+                <p class="desc">Company 1</p>
                 <p class="desc">Rzeszowska 19</p>
                 <p class="desc">43-472 Kraków</p>
-                <p class="desc">NIP: 123-456-78-19</p>
+                <p class="desc">VAT ID: 123-456-78-19</p>
                 <p class="desc">tel. 658 745 111</p>
             </div>
         </div>
         <div class="payment_method_box">
-            <p class="payment_method_box__title">Wybierz płatność</p>
+            <p class="payment_method_box__title">Choose payment method</p>
             <div class="payment_method_box__slots">
                 <div class="payment_method_box__slots--slot transfer active">
                     <input type="radio" name="radio-input" id="radio-input1" checked>
-                    <label class="radio-label" for="radio-input1">Przelew tradycyjny</label>
+                    <label class="radio-label" for="radio-input1">Bank transfer</label>
                 </div>
                 <div class="payment_method_box__slots--slot credit-card">
                     <input type="radio" name="radio-input" id="radio-input2">
-                    <label class="radio-label" for="radio-input2">Karta płatnicza</label>
+                    <label class="radio-label" for="radio-input2">Credit card</label>
                 </div>
                 <div class="payment_method_box__slots--slot online-pay">
                     <input type="radio" name="radio-input" id="radio-input3">
-                    <label class="radio-label" for="radio-input3">Płatność Online</label>
+                    <label class="radio-label" for="radio-input3">Online payment</label>
                 </div>
             </div>
         </div>
         <div class="cart_bottom_button_container">
-            <a class="continue-btn" href="">Wróć</a>
+            <a class="continue-btn" href="">Back</a>
         </div>
     </div>
     <div class="cart_step_one_container__right">
         <div class="cart_pay_box">
             <div class="cart_pay_box__content">
-                <p class="desc each-price">Cena za sztukę: 1,66 €</p>
-                <p class="desc branding-price">Znakowanie: 222 €</p>
-                <p class="desc netto-price"><span>Suma netto:</span>100,66 €</p>
-                <p class="desc vat"><span>Podatek VAT 23%:</span>10,66 €</p>
-                <p class="desc delivery"><span>Dostawa Kurier:</span>20,00 €</p>
-                <p class="desc brutto">Wartość brutto <br>(do zapłaty):</p>
-                <p class="desc brutto-price"><span class="big green">100,66</span><span class="large green">€</span</p>
+                <p class="desc each-price">Price per unit: 1.66 €</p>
+                <p class="desc branding-price">Branding: 222 €</p>
+                <p class="desc netto-price"><span>Net total:</span>100.66 €</p>
+                <p class="desc vat"><span>VAT 23%:</span>10.66 €</p>
+                <p class="desc delivery"><span>Courier Delivery:</span>20.00 €</p>
+                <p class="desc brutto">Gross value <br>(to be paid):</p>
+                <p class="desc brutto-price"><span class="big green">100.66</span><span class="large green">€</span></p>
             </div>
             <div class="cart_pay_box__button">
-                <a class="next-btn" href="">Dalej</a>
+                <a class="next-btn" href="">Next</a>
             </div>
         </div>
     </div>
