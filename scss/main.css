@@ -3125,6 +3125,22 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
     font-size: 14px;
   }
 }
+.category_filters .clear-filters-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 34px;
+  border: 1px solid #68B236;
+  color: #68B236;
+  background-color: #FFFFFF;
+  font-size: 14px;
+  border-radius: 10px;
+}
+.category_filters .clear-filters-btn:hover {
+  background-color: #68B236;
+  color: #FFFFFF;
+}
 .category_filters .accordion_box_title {
   position: relative;
   z-index: 1;
@@ -3210,7 +3226,7 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
   display: inline-flex;
   width: 15px;
   height: 15px;
-  border: 1px solid #D3D3D3;
+  border: 1px solid #d3d3d3;
   box-sizing: border-box;
   margin-right: 8px;
   cursor: pointer;
@@ -3223,28 +3239,28 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
   background-color: #020054;
 }
 .category_filters-slot--list li label .color_square.red {
-  border: 1px solid #FF0000;
-  background-color: #FF0000;
+  border: 1px solid #ff0000;
+  background-color: #ff0000;
 }
 .category_filters-slot--list li label .color_square.yellow {
-  border: 1px solid #FFC700;
-  background-color: #FFC700;
+  border: 1px solid #ffc700;
+  background-color: #ffc700;
 }
 .category_filters-slot--list li label .color_square.green {
-  border: 1px solid #64C14D;
-  background-color: #64C14D;
+  border: 1px solid #64c14d;
+  background-color: #64c14d;
 }
 .category_filters-slot--list li label .color_square.purple {
-  border: 1px solid #5945A9;
-  background-color: #5945A9;
+  border: 1px solid #5945a9;
+  background-color: #5945a9;
 }
 .category_filters-slot--list li label .color_square.brown {
-  border: 1px solid #674C4C;
-  background-color: #674C4C;
+  border: 1px solid #674c4c;
+  background-color: #674c4c;
 }
 .category_filters-slot--list li label .color_square.yellow2 {
-  border: 1px solid #FFDA58;
-  background-color: #FFDA58;
+  border: 1px solid #ffda58;
+  background-color: #ffda58;
 }
 .category_filters-slot .filters-btns {
   display: flex;
@@ -3300,7 +3316,7 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
   -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
   border: none;
   border-radius: 14px;
-  background: #E1E1E1;
+  background: #e1e1e1;
   box-shadow: inset 0 1px 0 0 #bbbbbb, inset 0 -1px 0 0 #c8c8c8;
   -webkit-box-shadow: inset 0 1px 0 0 #bbbbbb, inset 0 -1px 0 0 #c8c8c8;
   left: 0;
@@ -3388,7 +3404,7 @@ header #nav .bottom-nav .right-container ul.no-menu-links .new-nav li::before {
   height: 16px;
   width: 16px;
   border-radius: 100%;
-  background: #E1E1E1;
+  background: #e1e1e1;
 }
 .category_filters-slot .price_filters_box .price_filter_range input::-webkit-slider-runnable-track {
   -webkit-appearance: none;

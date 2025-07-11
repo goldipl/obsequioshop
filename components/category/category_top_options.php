@@ -1,18 +1,18 @@
 <div class="category_top_options">
     <div class="category_top_options__left">
         <div class="category_top_options__left--element">
-            <p>Sortuj wg:</p>
+            <p>Sort by:</p>
         </div>
         <div class="category_top_options__left--element filter">
             <select name="category_filter-name" id="category_filter-name">
-                <option value="Nazwa produktu A-Z">Nazwa produktu A-Z</option>
-                <option value="Nazwa produktu Z-A">Nazwa produktu Z-A</option>
+                <option value="Product Name A-Z">Product Name A-Z</option>
+                <option value="Product Name Z-A">Product Name Z-A</option>
             </select>
         </div>
     </div>
     <div class="category_top_options__right">
         <div class="category_top_options__right--element">
-            <p>Wyświetl:</p>
+            <p>Show:</p>
         </div>
         <div class="category_top_options__right--element filter">
             <select name="category_filter-quantity" id="category_filter-quantity">

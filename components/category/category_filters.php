@@ -1,6 +1,31 @@
 <div class="category_filters">
     <div class="accordion_box_title">
-        <h1 class="title producer accordion">Producent</h1>
+        <h1 class="title price accordion">Price</h1>
+        <div class="accordion_box_title--img">
+            <img src="./assets/icons/chevron-down-grey.svg" alt="chevron-down-grey" width="12" height="12">
+        </div>
+    </div>
+    <div class="category_filters-slot">
+        <form class="price_filters_box">
+            <div class="range-slider">
+                <input id="range-input-from" value="120" min="1" max="1000" step="1" type="range" oninput="amount.value=rangeInput.value">
+                <input id="range-input-to" value="780" min="1" max="1000" step="1" type="range" onchange="updateTextToInput(this.value);">
+            </div>
+            <div class="price_filter_container">
+                <div class="price_filter_container--from">
+                    <input type="number" name="price-zip-from" id="price-zip-from" placeholder="from" min="0">
+                </div>
+                <div class="price_filter_container--to">
+                    <input type="number" name="price-zip-to" id="price-zip-to" placeholder="to" min="0">
+                </div>
+            </div>
+            <div class="set-prices">
+                <button>Apply Price Range</button>
+            </div>
+        </form>
+    </div>
+    <div class="accordion_box_title">
+        <h1 class="title producer accordion">Manufacturer</h1>
         <div class="accordion_box_title--img">
             <img src="./assets/icons/chevron-down-grey.svg" alt="chevron-down-grey" width="12" height="12">
         </div>
@@ -31,7 +56,7 @@
     </div>
 
     <div class="accordion_box_title">
-        <h1 class="title color accordion">Kolor</h1>
+        <h1 class="title color accordion">Color</h1>
         <div class="accordion_box_title--img">
             <img src="./assets/icons/chevron-down-grey.svg" alt="chevron-down-grey" width="12" height="12">
         </div>
@@ -40,58 +65,35 @@
         <ul class="category_filters-slot--list color">
             <li>
                 <input type="checkbox" id="color01" name="color01" value="color 01">
-                <label for="color01"><div class="color_square white"></div>Biały <p>(<span>457</span>)</p></label>
+                <label for="color01"><div class="color_square white"></div>White <p>(<span>457</span>)</p></label>
             </li>
             <li>
                 <input type="checkbox" id="color02" name="color02" value="color 02">
-                <label for="color02"><div class="color_square darkblue"></div>Granatowy <p>(<span>457</span>)</p></label>
+                <label for="color02"><div class="color_square darkblue"></div>Dark Blue <p>(<span>457</span>)</p></label>
             </li>
             <li>
                 <input type="checkbox" id="color03" name="color03" value="color 03">
-                <label for="color03"><div class="color_square red"></div>Czerwony <p>(<span>4</span>)</p></label>
+                <label for="color03"><div class="color_square red"></div>Red <p>(<span>4</span>)</p></label>
             </li>
             <li>
                 <input type="checkbox" id="color04" name="color04" value="color 04">
-                <label for="color04"><div class="color_square yellow"></div>Żółty <p>(<span>4</span>)</p></label>
+                <label for="color04"><div class="color_square yellow"></div>Yellow <p>(<span>4</span>)</p></label>
             </li>
             <li>
                 <input type="checkbox" id="color05" name="color05" value="color 05">
-                <label for="color05"><div class="color_square green"></div>Zielony <p>(<span>4</span>)</p></label>
+                <label for="color05"><div class="color_square green"></div>Green <p>(<span>4</span>)</p></label>
             </li>
             <li>
                 <input type="checkbox" id="color06" name="color06" value="color 06">
-                <label for="color06"><div class="color_square purple"></div>Fioletowy <p>(<span>4</span>)</p></label>
+                <label for="color06"><div class="color_square purple"></div>Purple <p>(<span>4</span>)</p></label>
             </li>
             <li>
                 <input type="checkbox" id="color07" name="color07" value="color 07">
-                <label for="color07"><div class="color_square brown"></div>Brązowy <p>(<span>4</span>)</p></label>
+                <label for="color07"><div class="color_square brown"></div>Brown <p>(<span>4</span>)</p></label>
             </li>
         </ul>
     </div>
-
-    <div class="accordion_box_title">
-        <h1 class="title price accordion">Cena</h1>
-        <div class="accordion_box_title--img">
-            <img src="./assets/icons/chevron-down-grey.svg" alt="chevron-down-grey" width="12" height="12">
-        </div>
-    </div>
-    <div class="category_filters-slot">
-        <form class="price_filters_box">
-            <div class="range-slider">
-                <input id="range-input-from" value="120" min="1" max="1000" step="1" type="range" oninput="amount.value=rangeInput.value">
-                <input id="range-input-to" value="780" min="1" max="1000" step="1" type="range" onchange="updateTextToInput(this.value);">
-            </div>
-            <div class="price_filter_container">
-                <div class="price_filter_container--from">
-                    <input type="number" name="price-zip-from" id="price-zip-from" placeholder="od" min="0">
-                </div>
-                <div class="price_filter_container--to">
-                    <input type="number" name="price-zip-to" id="price-zip-to" placeholder="do" min="0">
-                </div>
-            </div>
-            <div class="set-prices">
-                <button>Zastosuj zakres cen</button>
-            </div>
-        </form>
+    <div class="clear-filters">
+        <button class="clear-filters-btn">Clear filters</button>
     </div>
 </div>

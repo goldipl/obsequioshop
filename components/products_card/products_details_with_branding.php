@@ -77,10 +77,10 @@
         <div class="products_details__bottom_right with-branding">
             <p class="title">Wycena dla:</p>
             <p class="title green">21 sztuk</p>
-            <p class="desc">Cena za sztukę: 1,66 PLN <br>Znakowanie: 222 PLN</p>
+            <p class="desc">Cena za sztukę: 1,66 € <br>Znakowanie: 222 €</p>
             <p class="desc middle">Wartość całkowita netto zamówienia</p>
-            <p class="price"><span class="big green">100,66</span><span class="large green">PLN</span></p>
-            <p class="desc bottom">122.88 PLN brutto</p>
+            <p class="price"><span class="big green">100,66</span><span class="large green">€</span></p>
+            <p class="desc bottom">122.88 € brutto</p>
             <div class="full-green--btn add-to-cart-btn">
                 <button>Do koszyka</button>
             </div>

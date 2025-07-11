@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Obsequio | Strona kategorii</title>
+        <title>Obsequio | Category</title>
         <link rel="shortcut icon" href="./assets/icons/favicon.jpg" type="image/x-icon">
         <link rel="stylesheet" href="./scss/main.css">
     </head>
@@ -22,7 +22,7 @@
                         <a href="#">Alladin</a>
                     </li>
                     <li class="breadcrumb-item actual">
-                        <a href="#">Akcesoria biurowe</a>
+                        <a href="#">Office Accessories</a>
                     </li>
                 </ul>
             </div>

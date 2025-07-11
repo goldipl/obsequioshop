@@ -41,7 +41,7 @@
                     <div class="slot-text">
                         <p class="price">
                             <span class="big green">100,66</span>
-                            <span class="large green">PLN</span>
+                            <span class="large green">€</span>
                         </p>
                     </div>
                 </div>
@@ -58,7 +58,7 @@
                     <div class="slot-text">
                         <p class="price">
                             <span class="big green">100,66</span>
-                            <span class="large green">PLN</span>
+                            <span class="large green">€</span>
                         </p>
                     </div>
                 </div>
@@ -75,7 +75,7 @@
                     <div class="slot-text">
                         <p class="price">
                             <span class="big green">100,66</span>
-                            <span class="large green">PLN</span>
+                            <span class="large green">€</span>
                         </p>
                     </div>
                 </div>

@@ -39,7 +39,7 @@
                     <div class="slot-text third">
                         <p class="price">
                             <span class="big green">100,66</span>
-                            <span class="large green">PLN</span>
+                            <span class="large green">€</span>
                         </p>
                         <a class="details" href="./clients-panel-orders-details.php">Szczegóły</a>
                     </div>
@@ -61,7 +61,7 @@
                     <div class="slot-text third">
                         <p class="price">
                             <span class="big green">100,66</span>
-                            <span class="large green">PLN</span>
+                            <span class="large green">€</span>
                         </p>
                         <a class="details" href="./clients-panel-orders-details.php">Szczegóły</a>
                     </div>
@@ -83,7 +83,7 @@
                     <div class="slot-text third">
                         <p class="price">
                             <span class="big green">100,66</span>
-                            <span class="large green">PLN</span>
+                            <span class="large green">€</span>
                         </p>
                         <a class="details" href="./clients-panel-orders-details.php">Szczegóły</a>
                     </div>
@@ -110,7 +110,7 @@
                     <div class="slot-text third">
                         <p class="price">
                             <span class="big green">100,66</span>
-                            <span class="large green">PLN</span>
+                            <span class="large green">€</span>
                         </p>
                         <a class="details" href="./clients-panel-orders-details.php">Szczegóły</a>
                     </div>
@@ -132,7 +132,7 @@
                     <div class="slot-text third">
                         <p class="price">
                             <span class="big green">100,66</span>
-                            <span class="large green">PLN</span>
+                            <span class="large green">€</span>
                         </p>
                         <a class="details" href="./clients-panel-orders-details.php">Szczegóły</a>
                     </div>

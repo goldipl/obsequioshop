@@ -7,7 +7,7 @@
                     <img src="./assets/img/products/pendrive.jpg">
                 </div>
                 <div class="products_block_wrapper__slot--price">
-                    <p class="price">Cena od: <span>44,00 PLN</span>
+                    <p class="price">Cena od: <span>44,00 €</span>
                     </p>
                 </div>
                 <div class="products_block_wrapper__slot--title">
@@ -30,11 +30,11 @@
                 </div>
                 <div class="products_block_wrapper__slot--price">
                     <p class="old-price">Cena od: <span>
-                            <s>97,00 PLN</s>
+                            <s>97,00 €</s>
                         </span>
                     </p>
                     <p class="price">
-                        <span>59,00 PLN</span>
+                        <span>59,00 €</span>
                     </p>
                 </div>
                 <div class="products_block_wrapper__slot--title">
@@ -56,7 +56,7 @@
                     <img src="./assets/img/products/pen.jpg">
                 </div>
                 <div class="products_block_wrapper__slot--price">
-                    <p class="price">Cena od: <span>1,99 PLN</span>
+                    <p class="price">Cena od: <span>1,99 €</span>
                     </p>
                 </div>
                 <div class="products_block_wrapper__slot--title">
@@ -85,7 +85,7 @@
                     <img src="./assets/img/products/notepadA4.jpg">
                 </div>
                 <div class="products_block_wrapper__slot--price">
-                    <p class="price">Cena od: <span>48,25 PLN</span>
+                    <p class="price">Cena od: <span>48,25 €</span>
                     </p>
                 </div>
                 <div class="products_block_wrapper__slot--title">
@@ -107,7 +107,7 @@
                     <img src="./assets/img/products/colormarkers.jpg">
                 </div>
                 <div class="products_block_wrapper__slot--price">
-                    <p class="price">Cena od: <span>9,59 PLN</span>
+                    <p class="price">Cena od: <span>9,59 €</span>
                     </p>
                 </div>
                 <div class="products_block_wrapper__slot--title">

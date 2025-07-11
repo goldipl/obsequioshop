@@ -38,7 +38,7 @@
                             <p>Cena:</p>
                         </div>
                         <div class="text-slot--price-value">
-                            <p class="price"><span class="big green">100,66</span><span class="large green">PLN</span></p>
+                            <p class="price"><span class="big green">100,66</span><span class="large green">€</span></p>
                         </div>
                     </div>
                 </div>
@@ -95,7 +95,7 @@
                             <p>Cena:</p>
                         </div>
                         <div class="text-slot--price-value">
-                            <p class="price"><span class="big green">100,66</span><span class="large green">PLN</span></p>
+                            <p class="price"><span class="big green">100,66</span><span class="large green">€</span></p>
                         </div>
                     </div>
                 </div>
@@ -155,13 +155,13 @@
     <div class="cart_step_one_container__right">
         <div class="cart_pay_box">
             <div class="cart_pay_box__content">
-                <p class="desc each-price">Cena za sztukę: 1,66 PLN</p>
-                <p class="desc branding-price">Znakowanie: 222 PLN</p>
-                <p class="desc netto-price"><span>Suma netto:</span>100,66 PLN</p>
-                <p class="desc vat"><span>Podatek VAT 23%:</span>10,66 PLN</p>
-                <p class="desc delivery"><span>Dostawa Kurier:</span>20,00 PLN</p>
+                <p class="desc each-price">Cena za sztukę: 1,66 €</p>
+                <p class="desc branding-price">Znakowanie: 222 €</p>
+                <p class="desc netto-price"><span>Suma netto:</span>100,66 €</p>
+                <p class="desc vat"><span>Podatek VAT 23%:</span>10,66 €</p>
+                <p class="desc delivery"><span>Dostawa Kurier:</span>20,00 €</p>
                 <p class="desc brutto">Wartość brutto <br>(do zapłaty):</p>
-                <p class="desc brutto-price"><span class="big green">100,66</span><span class="large green">PLN</span</p>
+                <p class="desc brutto-price"><span class="big green">100,66</span><span class="large green">€</span</p>
             </div>
             <div class="cart_pay_box__button">
                 <a class="next-btn" href="">Dalej</a>

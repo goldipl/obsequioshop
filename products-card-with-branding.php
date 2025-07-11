@@ -121,12 +121,12 @@
             <p class="products_card_modal--desc green">Jeśli nie masz plików nic nie szkodzi, nasz grafik pomoże Ci w tym.</p>
             <div class="free_pricing_visualisation_box">
                 <p class="title">Wycena dla:<span>21 sztuk</span></p>
-                <p class="desc">Cena za sztukę: 1,66 PLN</p>
-                <p class="desc">Znakowanie: 222 PLN</p>
+                <p class="desc">Cena za sztukę: 1,66 €</p>
+                <p class="desc">Znakowanie: 222 €</p>
             </div>
             <div class="free_summary_visualisation_box">
-                <p class="summary netto">Wartość całkowita netto zamówienia:<span class="price green big">100,66</span><span class="price green">PLN</span></p>
-                <p class="desc brutto">122.88 PLN brutto</p>
+                <p class="summary netto">Wartość całkowita netto zamówienia:<span class="price green big">100,66</span><span class="price green">€</span></p>
+                <p class="desc brutto">122.88 € brutto</p>
             </div>
             <div class="products_card_modal__btn">
                 <button>Wyślij</button>
@@ -139,12 +139,12 @@
             <p class="products_card_modal--desc">Oto podsumowanie kalkulacji, przejdź do koszyka lub kontynuuj zakupy.</p>
             <div class="free_pricing_visualisation_box">
                 <p class="title">Wycena dla:<span>21 sztuk</span></p>
-                <p class="desc">Cena za sztukę: 1,66 PLN</p>
-                <p class="desc">Znakowanie: 222 PLN</p>
+                <p class="desc">Cena za sztukę: 1,66 €</p>
+                <p class="desc">Znakowanie: 222 €</p>
             </div>
             <div class="free_summary_visualisation_box">
-                <p class="summary netto">Wartość całkowita netto zamówienia:<span class="price green big">100,66</span><span class="price green">PLN</span></p>
-                <p class="desc brutto">122.88 PLN brutto</p>
+                <p class="summary netto">Wartość całkowita netto zamówienia:<span class="price green big">100,66</span><span class="price green">€</span></p>
+                <p class="desc brutto">122.88 € brutto</p>
             </div>
             <div class="products_card_modal_buttons">
                 <div class="green-white--btn continue-shopping">

@@ -76,7 +76,7 @@
         </div>
         <div class="products_details__bottom_right">
             <p class="title">Wyceń i zamów</p>
-            <p class="price">Cena od:<span class="big green">1,66</span><span class="large green">PLN</span></p>
+            <p class="price">Cena od:<span class="big green">1,66</span><span class="large green">€</span></p>
             <p class="desc">Tu pojawi się cena produktu <br>z wybranym przez Ciebie nadrukiem</p>
         </div>
     </div>
