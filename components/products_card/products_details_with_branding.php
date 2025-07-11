@@ -82,7 +82,7 @@
             <p class="price"><span class="big green">€100.66</span></p>
             <p class="desc bottom">€122.88 gross</p>
             <div class="full-green--btn add-to-cart-btn">
-                <button>Add to Cart</button>
+                <button>Add to Basket</button>
             </div>
             <div class="green-white--btn free-visualisation-btn">
                 <button>Free Visualization</button>

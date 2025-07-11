@@ -151,7 +151,7 @@
                     <button>Continue Shopping</button>
                 </div>
                 <div class="full-green--btn go-to-cart">
-                    <button>Go to Cart</button>
+                    <button>Go to Basket</button>
                 </div>
             </div>
         </form>

@@ -18,7 +18,7 @@
             </div>
             <div class="products_block_wrapper__slot--btn">
                 <a href="#">
-                    <span class="cart-btn-text">Add to Cart</span>
+                    <span class="cart-btn-text">Add to Basket</span>
                 </a>
             </div>
         </div>
@@ -40,7 +40,7 @@
             </div>
             <div class="products_block_wrapper__slot--btn">
                 <a href="#">
-                    <span class="cart-btn-text">Add to Cart</span>
+                    <span class="cart-btn-text">Add to Basket</span>
                 </a>
             </div>
         </div>
@@ -68,7 +68,7 @@
             </div>
             <div class="products_block_wrapper__slot--btn">
                 <a href="#">
-                    <span class="cart-btn-text">Add to Cart</span>
+                    <span class="cart-btn-text">Add to Basket</span>
                 </a>
             </div>
         </div>
@@ -89,7 +89,7 @@
             </div>
             <div class="products_block_wrapper__slot--btn">
                 <a href="#">
-                    <span class="cart-btn-text">Add to Cart</span>
+                    <span class="cart-btn-text">Add to Basket</span>
                 </a>
             </div>
         </div>
@@ -110,7 +110,7 @@
             </div>
             <div class="products_block_wrapper__slot--btn">
                 <a href="#">
-                    <span class="cart-btn-text">Add to Cart</span>
+                    <span class="cart-btn-text">Add to Basket</span>
                 </a>
             </div>
         </div>

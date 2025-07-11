@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Obsequio | Cart - Summary</title>
+        <title>Obsequio | Basket - Summary</title>
         <link rel="shortcut icon" href="./assets/icons/favicon.jpg" type="image/x-icon">
         <link rel="stylesheet" href="./scss/main.css">
     </head>
@@ -19,7 +19,7 @@
                         <a href="#">Home</a>
                     </li>
                     <li class="breadcrumb-item">
-                        <a href="#">Cart</a>
+                        <a href="#">Basket</a>
                     </li>
                 </ul>
             </div>
@@ -31,7 +31,7 @@
                                 <p>1</p>
                             </div>
                             <div class="item--text">
-                                <p>Your Cart</p>
+                                <p>Your Basket</p>
                             </div>
                         </a>
                     </li>
