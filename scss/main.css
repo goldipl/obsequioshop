@@ -20,9 +20,6 @@ body {
   font-family: "Poppins", sans-serif;
   accent-color: #68B236;
 }
-body.open-modal {
-  position: fixed;
-}
 body.open-modal::before {
   position: absolute;
   top: 0;

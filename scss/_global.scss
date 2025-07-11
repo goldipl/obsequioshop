@@ -7,7 +7,6 @@ body {
   font-family: "Poppins", sans-serif;
   accent-color: $main_color;
   &.open-modal {
-    position: fixed;
     &::before {
       position: absolute;
       top: 0;

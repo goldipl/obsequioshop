@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="pl">
+<html lang="en">
     <head>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Obsequio | Karta produktu</title>
+        <title>Obsequio | Product Card</title>
         <link rel="shortcut icon" href="./assets/icons/favicon.jpg" type="image/x-icon">
         <link rel="stylesheet" href="./scss/main.css">
     </head>
@@ -19,13 +19,13 @@
                         <a href="#">Home</a>
                     </li>
                     <li class="breadcrumb-item">
-                        <a href="#">Artykuły biurowe</a>
+                        <a href="#">Office Supplies</a>
                     </li>
                     <li class="breadcrumb-item">
-                        <a href="#">Akcesoria biurowe</a>
+                        <a href="#">Office Accessories</a>
                     </li>
                     <li class="breadcrumb-item actual">
-                        <a href="#">Klip do dokumentów</a>
+                        <a href="#">Document Clip</a>
                     </li>
                 </ul>
             </div>
@@ -46,41 +46,41 @@
         <!-- Pricing and visualisation modal -->
         <form class="products_card_modal pricing-visualisation">
             <span class="products_card_modal--close-icon"></span>
-            <p class="products_card_modal--title">Wycena i wizualizacja na email</p>
-            <p class="products_card_modal--desc">Wykonamy bezpłatnie wycenę i wizualizację produktu, w tym celu prosimy o uzupełnienie formularza.</p>
+            <p class="products_card_modal--title">Pricing and Visualization via Email</p>
+            <p class="products_card_modal--desc">We will provide a free product quote and visualization. Please fill in the form below.</p>
             <div class="products_card_modal__inputs">
                 <div class="products_card_modal__inputs__left">
                     <div class="products_card_modal__inputs__left--input">
-                        <input type="text" name="name" placeholder="Imię *" required>
+                        <input type="text" name="name" placeholder="First Name *" required>
                     </div>
                     <div class="products_card_modal__inputs__left--input">
-                        <input type="text" name="company_name" placeholder="Nazwa Firmy *" required>
+                        <input type="text" name="company_name" placeholder="Company Name *" required>
                     </div>
                     <div class="products_card_modal__inputs__left--input">
-                        <input type="number" name="telephone" placeholder="Nr Telefonu">
+                        <input type="number" name="telephone" placeholder="Phone Number">
                     </div>
                     <div class="products_card_modal__inputs__left--textarea">
-                        <textarea name="message" id="message" placeholder="Wiadomość *" required></textarea>
+                        <textarea name="message" id="message" placeholder="Message *" required></textarea>
                     </div>
                 </div>
                 <div class="products_card_modal__inputs__right">
                     <div class="products_card_modal__inputs__right--input">
-                        <input type="text" name="surname" placeholder="Nazwisko *" required>
+                        <input type="text" name="surname" placeholder="Last Name *" required>
                     </div>
                     <div class="products_card_modal__inputs__right--input">
-                        <input type="email" name="email" placeholder="Adres email *" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
+                        <input type="email" name="email" placeholder="Email Address *" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
                     </div>
                     <label for="files2" class="add-files" id="add-files">
-                        <p class="add-files-title">Dodaj pliki</p>
+                        <p class="add-files-title">Add files</p>
                         <img class="add-files-img" src="./assets/icons/cart/upload.svg" alt="upload" width="21" height="14">
-                        <p class="add-files-text">Przeciągnij i upuść albo <br>Dodaj plik</p>
+                        <p class="add-files-text">Drag and drop or <br>Add a file</p>
                         <input class="file file-block" type="file" id="files2">
                     </label>
                 </div>
             </div>
-            <p class="products_card_modal--desc green">Jeśli nie masz plików nic nie szkodzi, nasz grafik pomoże Ci w tym.</p>
+            <p class="products_card_modal--desc green">If you don’t have any files, no worries—our graphic designer will help you with it.</p>
             <div class="products_card_modal__btn">
-                <button>Wyślij</button>
+                <button>Send</button>
             </div>
         </form>
         <script src="./js/mobile_searchbar.js"></script>

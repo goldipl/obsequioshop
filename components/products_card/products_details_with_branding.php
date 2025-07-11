@@ -1,7 +1,7 @@
 <div class="products_details">
     <div class="products_details__top">
-        <h1 class="name">Klip do dokumentów</h1>
-        <p class="code">Kod: AXV279410</p>
+        <h1 class="name">Document Clip</h1>
+        <p class="code">Code: AXV279410</p>
         <div class="products-variants">
             <a href="#" class="products-variants--slot">
                 <img src="./assets/img/products_card/small-klip-red.jpg" alt="variant img" width="29" height="50">
@@ -30,65 +30,65 @@
         </div>
         <div class="pricing_availability_container">
             <div class="pricing_availability_container__btn">
-                <button>Wycena i wizualizacja na email</button>
+                <button>Quote and Visualization via Email</button>
             </div>
             <div class="pricing_availability_container__availability">
-                <p>Dostępność: <span class="circle green"></span><span class="grey">(1300 sztuk)</span></p>
+                <p>Availability: <span class="circle green"></span><span class="grey">(1300 pcs)</span></p>
             </div>
         </div>
     </div>
     <div class="products_details__bottom">
         <div class="products_details__bottom_left">
             <div class="input-slot">
-                <label class="products_quantity" for="products_quantity">Ilość:</label>
+                <label class="products_quantity" for="products_quantity">Quantity:</label>
                 <input type="number" name="products_quantity" id="products_quantity">
             </div>
             <div class="input-slot">
-                <label class="products_branding_method" for="products_branding_method">Metoda znakowania:</label>
+                <label class="products_branding_method" for="products_branding_method">Branding Method:</label>
                 <select name="products_branding_method" id="products_branding_method">
-                    <option value="Opcja 1">Opcja 1</option>
-                    <option value="Opcja 2">Opcja 2</option>
+                    <option value="Option 1">Option 1</option>
+                    <option value="Option 2">Option 2</option>
                 </select>
             </div>
             <div class="input-slot">
-                <label class="products_print_colors_quantity" for="products_print_colors_quantity">Ilość kolorów nadruku:</label>
+                <label class="products_print_colors_quantity" for="products_print_colors_quantity">Number of Print Colors:</label>
                 <input type="number" name="products_print_colors_quantity" id="products_print_colors_quantity">
             </div>
             <div class="input-slot">
-                <label class="products_print_postion" for="products_print_postion">Pozycja nadruku:</label>
+                <label class="products_print_postion" for="products_print_postion">Print Position:</label>
                 <select name="products_print_postion" id="products_print_postion">
-                    <option value="Opcja 1">Opcja 1</option>
-                    <option value="Opcja 2">Opcja 2</option>
+                    <option value="Option 1">Option 1</option>
+                    <option value="Option 2">Option 2</option>
                 </select>
             </div>
             <div class="text-slot upload-files">
-                <p class="title">Wgraj pliki:</p>
-                <p class="desc">Dodaj plik do miejsca znakowania:</p>
+                <p class="title">Upload Files:</p>
+                <p class="desc">Add file for branding position:</p>
             </div>
             <label for="files" class="add-files" id="add-files">
                 <img class="add-files-img" src="./assets/icons/cart/upload.svg" alt="upload" width="21" height="14">
-                <p class="add-files-text">Przeciągnij i upuść albo <br>Dodaj plik</p>
+                <p class="add-files-text">Drag and drop or <br>Add file</p>
                 <input class="file file-block" type="file" id="files">
             </label>
             <div class="text-slot">
-                <p class="desc">Wymagamy plik w wektorach <br>format pliku pdf zapisany w krzywych (czcionka i kontury)</p>
+                <p class="desc">We require vector files <br>PDF format saved with curves (fonts and outlines)</p>
             </div>
         </div>
         <div class="products_details__bottom_right with-branding">
-            <p class="title">Wycena dla:</p>
-            <p class="title green">21 sztuk</p>
-            <p class="desc">Cena za sztukę: 1,66 € <br>Znakowanie: 222 €</p>
-            <p class="desc middle">Wartość całkowita netto zamówienia</p>
-            <p class="price"><span class="big green">100,66</span><span class="large green">€</span></p>
-            <p class="desc bottom">122.88 € brutto</p>
+            <p class="title">Quote for:</p>
+            <p class="title green">21 pcs</p>
+            <p class="desc">Price per unit: €1.66 <br>Branding: €222</p>
+            <p class="desc middle">Net order total</p>
+            <p class="price"><span class="big green">€100.66</span></p>
+            <p class="desc bottom">€122.88 gross</p>
             <div class="full-green--btn add-to-cart-btn">
-                <button>Do koszyka</button>
+                <button>Add to Cart</button>
             </div>
             <div class="green-white--btn free-visualisation-btn">
-                <button>Darmowa wizualizacja</button>
+                <button>Free Visualization</button>
             </div>
             <div class="green-white--btn download-pdf-offert-btn">
-                <button>Pobierz ofertę PDF</button>
+                <button>Download PDF Offer</button>
             </div>
         </div>
     </div>
