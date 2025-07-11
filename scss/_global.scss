@@ -95,20 +95,10 @@ h1.mainpage-title {
   #main-wrapper {
     width: 80vw;
     padding: 0 10vw;
-    &::before {
-      left: 0;
-      width: 110vw !important;
-    }
   }
 }
 
 @media (max-width: 1320px) {
-  body #main-wrapper {
-    &.dark-background::before {
-      left: 0;
-    }
-  }
-
   #main-wrapper {
     width: calc(100% - 108px);
     padding: 0 52px;

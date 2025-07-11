@@ -335,6 +335,9 @@ header {
               background-color: $white;
               z-index: 0;
               padding-bottom: 21px;
+              @media (max-width: 1400px) {
+                left: 9vw;
+              }
               &::before {
                 content: "";
                 display: block;

@@ -109,15 +109,8 @@ h1.mainpage-title::before {
     width: 80vw;
     padding: 0 10vw;
   }
-  #main-wrapper::before {
-    left: 0;
-    width: 110vw !important;
-  }
 }
 @media (max-width: 1320px) {
-  body #main-wrapper.dark-background::before {
-    left: 0;
-  }
   #main-wrapper {
     width: calc(100% - 108px);
     padding: 0 52px;
@@ -606,6 +599,11 @@ header #nav .bottom-nav .left-container ul li .bottom-nav-sublist {
   background-color: #FFFFFF;
   z-index: 0;
   padding-bottom: 21px;
+}
+@media (max-width: 1400px) {
+  header #nav .bottom-nav .left-container ul li .bottom-nav-sublist {
+    left: 9vw;
+  }
 }
 header #nav .bottom-nav .left-container ul li .bottom-nav-sublist::before {
   content: "";
