@@ -23,7 +23,7 @@
                     </li>
                 </ul>
             </div>
-            <?php include "./components/about_us/about_us_content.php"; ?>
+            <?php include "./components/article/about_us_content.php"; ?>
             <?php include "./components/main_page/our_team.php"; ?> 
         </div>
         <footer> 
