@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Obsequio | Customer Service</title>
+        <title>Obsequio | About Us</title>
         <link rel="shortcut icon" href="./assets/icons/favicon.jpg" type="image/x-icon">
         <link rel="stylesheet" href="./scss/main.css">
     </head>
@@ -13,8 +13,7 @@
             <?php include "./components/nav.php"; ?> 
         </header>
         <div id="main-wrapper">
-            <?php include "./components/article/about_us_content.php"; ?>
-            <?php include "./components/main_page/our_team.php"; ?> 
+            <?php include "./components/article/customer_service_content.php"; ?>
         </div>
         <footer> 
             <?php include "./components/footer.php"; ?> 

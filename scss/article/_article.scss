@@ -3,6 +3,12 @@
   flex-direction: row;
   flex-wrap: wrap;
   align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  @media (max-width: 991px) {
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
   h2 {
     font-size: 24px;
     font-weight: 700;
@@ -14,6 +20,59 @@
     span {
       color: $main_color;
       margin: 0;
+    }
+  }
+  h3 {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 18px;
+    color: $main_color;
+    margin: 24px 0 12px 0;
+    width: 100%;
+  }
+  .article_txt_box {
+    width: 100%;
+    ul li,
+    ol li {
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 160%;
+      color: $article_text;
+    }
+    p {
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 160%;
+      color: $article_text;
+      margin: 0 0 12px 0;
+    }
+    .table-box {
+      @media (max-width: 991px) {
+        overflow-y: hidden;
+        overflow-x: scroll;
+        table {
+          tr,
+          td,
+          th {
+            padding: 8px;
+            font-size: 12px;
+          }
+        }
+      }
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+
+      tr,
+      th,
+      td {
+        border-color: $article_text;
+        color: $article_text;
+        text-align: left;
+        padding: 12px;
+        border: 1px solid $article_text;
+      }
     }
   }
   .article_img_txt_box {
