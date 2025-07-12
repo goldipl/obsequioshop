@@ -1,5 +1,4 @@
 <div class="article_container">
-    <h1 class="title">Text Subpage</h1>
     <div class="article_img_txt_box--img">
         <img src="./assets/img/article/article_img_01.jpg" alt="img" width="775" height="232">
     </div>
