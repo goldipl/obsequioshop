@@ -38,4 +38,9 @@ This work is licensed under a Creative Commons Non-Commercial (CC BY-NC) License
 
 ## Screenshots
 
-![screenshot](./screenshots/screenshot01.jpg)
+![screenshot](./screenshots/obsequio01.jpg)
+![screenshot](./screenshots/obsequio02.jpg)
+![screenshot](./screenshots/obsequio03.jpg)
+![screenshot](./screenshots/obsequio04.jpg)
+![screenshot](./screenshots/obsequio05.jpg)
+![screenshot](./screenshots/obsequio06.jpg)
